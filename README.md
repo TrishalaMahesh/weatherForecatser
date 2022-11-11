@@ -1,4 +1,4 @@
-# cmpe-280-group_project_weather_forecaster
+
 
 To start, clone this github repo and open it in VSCode or any IDE
 
